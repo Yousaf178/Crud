@@ -218,6 +218,7 @@ while ($row=mysqli_fetch_array($ret)) {
                              <?php  echo "Only 1";?>
                          </td>
 
+
                         <td><?php  echo $row['price'] * 1;?></td>
                         <td>
                             <?php
