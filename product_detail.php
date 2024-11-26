@@ -185,7 +185,7 @@ table.table td i {
                         <th>Image</th>                       
                         <th>Made</th>                       
                         <th>Price</th>                   
-                        <th>Quantity</th>                   
+                        <!-- <th>Quantity</th>                    -->
                         <th>From Date</th>                   
                         <th>To Date</th>                   
                         <th>Time Remaining</th>                   
