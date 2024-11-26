@@ -214,8 +214,9 @@ while ($row=mysqli_fetch_array($ret)) {
                         <td><?php  echo $row['price'];?></td>
                         <td>
                             <?php $quantity = $_GET['quantity'] ?>
-                            <input style="width: 41px;" type="int" name="quantity" value="<?php $_GET['quantity'];?>" required>
-                        </td>
+                            <!-- <input style="width: 41px;" type="int" name="quantity" value="<?php //$_GET['quantity'];?>" required> -->
+                             <?php  echo "Only 1";?>
+                         </td>
 
                         <td><?php  echo $row['price'] * 1;?></td>
                         <td>
