@@ -212,7 +212,7 @@ table.table td i {
                         <th>Price</th>                   
                         <th>10% Discount Price</th>                   
                         
-                        <!-- <th>Profile</th> -->
+                        <th>Profile</th>
                         <th>Action</th>
                     </tr>
                 </thead>
