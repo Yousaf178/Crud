@@ -202,7 +202,7 @@ echo "<script>window.location.href = 'admin_index.php'</script>";
         <div class="table-wrapper">
             <div class="table-title">
                 <div class="row">
-                        <h3>Total Products List Test</h3>
+                        <h3>Total Products List Test 26/11/2024</h3>
                     
                        <!-- <div class="col-sm-7" align="right">
                         <a href="insert_product.php" class="btn btn-secondary"><i class="material-icons">&#xE147;</i> <span>Add New Product</span></a>
